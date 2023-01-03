@@ -1,5 +1,5 @@
 {
-	"name": "fotorama-react-wrapper",
+	"name": "@ampersandhq/fotorama-react-wrapper",
 	"version": "1.0.6",
 	"description": "A simple reactjs wrapper for fotorama (http://fotorama.io/)",
 	"keywords": [
